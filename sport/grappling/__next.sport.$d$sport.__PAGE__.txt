@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/fightline/_next/static/chunks/2wv20zbpuk9i0.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/fightline/_next/static/chunks/41bz_at10peft.js"
+d:I[22016,["$3","$c"],""]
+e:I[51215,["$3","$c"],"default"]
+f:I[97367,["$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3"],"$15"]
+17:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":[["$","h1",null,{"className":"display text-5xl","children":"Grappling calendar"}],["$","p",null,{"className":"mt-1 text-fl-muted","children":"Every upcoming event we can source, in date order. Times are shown exactly as the source printed them."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-2","role":"group","aria-label":"Filter by sport","children":[["$","$Ld",null,{"href":"/events","className":"focus-ring rounded-full px-4 py-2 text-sm font-semibold border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"All sports"}],[["$","$Ld","mma",{"href":"/sport/mma","className":"focus-ring rounded-full px-4 py-2 text-sm border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"MMA"}],["$","$Ld","boxing",{"href":"/sport/boxing","className":"focus-ring rounded-full px-4 py-2 text-sm border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"Boxing"}],["$","$Ld","bare-knuckle",{"href":"/sport/bare-knuckle","className":"focus-ring rounded-full px-4 py-2 text-sm border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"Bare knuckle"}],["$","$Ld","kickboxing",{"href":"/sport/kickboxing","className":"focus-ring rounded-full px-4 py-2 text-sm border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"Kickboxing"}],["$","$Ld","muay-thai",{"href":"/sport/muay-thai","className":"focus-ring rounded-full px-4 py-2 text-sm border border-fl-line bg-fl-surface text-fl-muted hover:text-white","children":"Muay Thai"}],["$","$Ld","grappling",{"href":"/sport/grappling","aria-current":"true","className":"focus-ring rounded-full px-4 py-2 text-sm bg-fl-primary font-semibold","children":"Grappling"}]],["$","$Le",null,{}]]}],["$","div",null,{"className":"mt-10 rounded-xl border border-fl-line bg-fl-surface p-10 text-center","children":[["$","p",null,{"className":"display text-3xl","children":"No events loaded"}],["$","p",null,{"className":"mt-2 text-fl-muted","children":"We have no verified upcoming Grappling events yet. Kickboxing, Muay Thai and grappling schedules are not loaded."}],["$","$Ld",null,{"href":"/events","className":"focus-ring mt-4 inline-block rounded-md bg-fl-primary px-4 py-2 font-semibold","children":"Show all events"}]]}],["$","p",null,{"id":"no-match","hidden":true,"className":"mt-8 text-center text-fl-muted","children":"No events match your search."}]]}],[["$","script","script-0",{"src":"/fightline/_next/static/chunks/41bz_at10peft.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"sport","t":"d","k":"grappling","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"sport","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0a0a"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Grappling events | FIGHTLINE"}],["$","meta","1",{"name":"description","content":"Upcoming Grappling events and announced cards, with sources."}],["$","link","2",{"rel":"canonical","href":"https://foxjarvis.github.io/fightline/sport/grappling/"}],["$","meta","3",{"property":"og:title","content":"Grappling events | FIGHTLINE"}],["$","meta","4",{"property":"og:description","content":"Upcoming Grappling events and announced cards, with sources."}],["$","meta","5",{"property":"og:site_name","content":"FIGHTLINE"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Grappling events | FIGHTLINE"}],["$","meta","9",{"name":"twitter:description","content":"Upcoming Grappling events and announced cards, with sources."}],["$","link","10",{"rel":"icon","href":"/fightline/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L17","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"Oakuc-IIquCH-CmvmyVVL"}
+11:null
+1a:true
+8:300
+8:C
+19:0
+a:"$undefined"
+6:"$undefined"
+18:"$undefined"
+12:"$undefined"
