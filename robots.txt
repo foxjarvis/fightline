@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://foxjarvis.github.io/fightline/sitemap.xml
